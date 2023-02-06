@@ -1,4 +1,16 @@
+// Problem 1: Let’s play a mind game
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+// function mindGame(number){
+//   const result = (number * 3 + 10)  /2 -5;
+//   return result
+// }
+
+
+// const result = mindGame(33);
+
+// console.log(result)
 // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 // Problem 2: Finding even or odd
