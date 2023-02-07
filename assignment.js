@@ -110,3 +110,5 @@
 // const total = gemsToDiamond(100,5,1)
 
 // console.log(total);
+
+
